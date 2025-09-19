@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: Comic Sans MS, cursive, sans-serif;
+  background: #fff9e6;
+  color: #222222;
+}
+
+header {
+  text-align: center;
+  background: #ffcc66;
+  padding: 25px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #3366cc;
+}
+
+header p {
+  font-size: 18px;
+  color: #ff3333;
+}
+
+main {
+  display: grid;
+  gap: 25px;
+  padding: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+img {
+  width: 400px;
+  max-width: 370px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #3366cc;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  color: #444444;
+}
